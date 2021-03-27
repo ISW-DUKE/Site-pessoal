@@ -1,0 +1,27 @@
+header{
+    background-color:#370858;
+    border-bottom: 8px solid #9370DB;
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+nav{
+    background-color:#370858;
+    text-align: right;
+
+}
+a{
+    display: inline-flex;
+    color:#fff;
+    size:20px;
+    font-family: "fira code",sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 40px;
+    align-items: center;
+    padding:20px ;
+    
+}
+#logo{
+    height: 60px;
+}
